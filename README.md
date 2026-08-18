@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://github.com/Ilest-Lenoir/M.A-Safety/blob/main/IMG-20260810-WA0041.jpg" alt="XDOGS Logo"></p>
 
 <h1 align="center">M.A LeNoir Security (Noir.ex)</h1>
 
